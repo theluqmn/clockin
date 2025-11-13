@@ -7,8 +7,8 @@ A simple clock website for your phone when it is horizontal, inspired by iPhone'
 
 ## To-do
 
-- [ ] setup the HTML
-- [ ] design the website according to the planned design
+- [x] setup the HTML
+- [x] design the website according to the planned design
 - [ ] create a javascript file to update required HTML elements
 - [ ] link javascript file to HTML
 - [ ] add timer
